@@ -1,4 +1,4 @@
-- 👋 # Hi there, I'm Muhammad Nazim
+- 👋  Hi there, I'm Muhammad Nazim
 
 - I'm an aspiring MERN stack developer passionate about building robust and scalable web applications.
 - 📫 You can reach me at nazimnazz66@gmail.com or connect with me on Linkedin https://www.linkedin.com/in/-muhammadnazim/
