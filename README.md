@@ -4,11 +4,12 @@
 - 📫 You can reach me at nazimnazz66@gmail.com or connect with me on Linkedin https://www.linkedin.com/in/-muhammadnazim/
 
  ## Skills and Expertise
-- **Frontend**: JavaScript, React.js, HTML, CSS, Redux, Typescript
+- **Frontend**: JavaScript, React.js, HTML, CSS, Redux, Typescript, NextJs
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose, pSql
 - **Version Control**: Git, GitHub
 - **Tools**: VSCode, Postman, npm
+- **Cloud**: AWS, Atlas
 
 ## Learning Goals
 Currently, I'm focusing on sharpening my skills in:
